@@ -191,3 +191,8 @@ enableEmoji = true
   [privacy.youtube]
     disable = false
     privacyEnhanced = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
