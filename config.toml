@@ -123,33 +123,33 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About our project"
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
+    name = "Gender & Age by Education"
+    title = "More on this variable"
+    url = "/genderage/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
+    name = "Employment Status"
+    title = "More on this variable"
+    url = "/employment/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
+    name = "Prison Populations"
+    title = "More on this variable"
+    url = "/prison/"
     weight = 4
   [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
+    name = "Poverty Status by Household Type"
+    title = "More on this variable"
+    url = "/povertyhouse/"
     weight = 5
   [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
+    name = "Poverty Status by Gender"
+    title = "More on this variable"
+    url = "/povertygen/"
     weight = 6
     
   # Configure footer  
